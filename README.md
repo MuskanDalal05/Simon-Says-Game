@@ -1,2 +1,40 @@
-# Simon-Says-Game
-This project is a responsive and interactive web application developed using HTML for structure, CSS for styling, and JavaScript for functionality. The project demonstrates front-end development skills such as responsive design, DOM manipulation, event handling, and basic user interface development.
+🎮 Simon Says Game
+
+A simple and interactive Simon Says Game built using HTML, CSS, and JavaScript.
+This project tests the player's memory and attention by generating a sequence of colors that the player must repeat correctly.
+
+📌 Project Overview
+
+The Simon Says Game is a classic memory-based game where:
+
+The system generates a random color sequence.
+
+The player must repeat the same sequence in the correct order.
+
+The game level increases as the sequence grows.
+
+The game ends if the player selects the wrong sequence.
+
+This project demonstrates front-end development skills including DOM manipulation, event handling, and responsive design.
+
+🛠️ Technologies Used
+
+HTML5 – Structure of the game
+
+CSS3 – Styling and layout
+
+JavaScript (ES6) – Game logic and interactivity
+
+🎯 Features
+
+Interactive UI
+
+Random sequence generation
+
+Level progression system
+
+Game over detection
+
+Restart functionality
+
+Responsive design
