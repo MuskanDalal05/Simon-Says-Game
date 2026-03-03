@@ -33,8 +33,8 @@ ii) Random sequence generation
 
 iii) Level progression system
 
-Game over detection
+iv) Game over detection
 
-Restart functionality
+v) Restart functionality
 
-Responsive design
+vi) Responsive design
