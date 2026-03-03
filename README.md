@@ -19,19 +19,19 @@ This project demonstrates front-end development skills including DOM manipulatio
 
 **🛠️ Technologies Used**
 
-HTML5 – Structure of the game
+1. HTML5 – Structure of the game
 
-CSS3 – Styling and layout
+2. CSS3 – Styling and layout
 
-JavaScript (ES6) – Game logic and interactivity
+3. JavaScript (ES6) – Game logic and interactivity
 
 **🎯 Features**
 
-Interactive UI
+i) Interactive UI
 
-Random sequence generation
+ii) Random sequence generation
 
-Level progression system
+iii) Level progression system
 
 Game over detection
 
